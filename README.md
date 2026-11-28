@@ -5,6 +5,9 @@
     <strong>Official landing page and interactive web simulator for Remote Trackpad &amp; Gamepad Pro (v1.5.0).</strong>
   </p>
   <p>
+    <a href="https://remotemousewebsite.vercel.app">
+      <img src="https://img.shields.io/badge/Live_Demo-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Live Demo on Vercel" />
+    </a>
     <a href="https://github.com/AgrShubham/Remote-trackpad-app/releases/tag/v1.5.0">
       <img src="https://img.shields.io/badge/release-v1.5.0-2dd4bf?style=flat-square" alt="Release v1.5.0" />
     </a>
@@ -13,6 +16,7 @@
     <img src="https://img.shields.io/badge/Vite-5.4-646cff?style=flat-square&logo=vite&logoColor=white" alt="Vite 5.4" />
   </p>
   <p>
+    <a href="https://remotemousewebsite.vercel.app">Live Site</a> •
     <a href="#features">Features</a> •
     <a href="#project-structure">Project Structure</a> •
     <a href="#getting-started">Getting Started</a> •
